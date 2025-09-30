@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/autisticliquidx",
   "VITE_SEO_SITE_NAME": "AutisticLiquid",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/autisticliquid-9812/",
+  "VITE_SEO_SITE_URL": "https://trade.autisticliquid.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@autisticliquidx",
